@@ -1,4 +1,9 @@
 # My Projects 
+## Physik Team Stadtradeln Göttingen
+Gemeinsam wollen wir zeigen, wie viele aktive Radfahrende es in der Fakultät für Physik in Göttingen gibt. Wie gut das funktioniert siehst du in dem widget hier:
+<div style="width: auto !important; min-width: 375px; max-width: 415px; height: 415px;">
+<iframe style="width: 100%; height: 100%;" frameborder="0" scrolling="no" src="https://www.stadtradeln.de/fileadmin/radelkalender/embed/radelmeter-team.php?sr_team_id=45412"></iframe>
+</div>
 
 ## Covid Map 
 
@@ -23,3 +28,5 @@ Ein mehr oder weniger einfach zu benutzendes Speichendisplay, um Fahrradfahrer i
 ## Mobiler Feinstaubsensor zur Live-Messung der Feinstaubwerte im Straßenverkehr
 
 Aufbau eines Feinstaubsensors auf Basis eines Arduino und Nutzung desselben, um Feinstaub im Straßenverkehr zu messen. Daraus lässt sich in erster Linie ableiten, dass man weder als Fahrradfahrer noch als Fußgänger länger an Ampeln stehen sollte, weil der Feinstaubgehalt in der Luft ein Vielfaches des in der Stadt durchschnittlichen Feinstaubgehalts beträgt. Für weitere erkentnisse würde leider Equipment, wie z.B. ein zuverlässigerer Feinstaubsensor, benötigt, welches meine eigenen finanziellen Ressourcen übersteigt.
+
+

@@ -7,7 +7,11 @@ Gemeinsam wollen wir zeigen, wie viele aktive Radfahrende es in der Fakult√§t f√
 
 ## Covid Map 
 
-Based on Publicly available data I created a Map of the spread of covid in italy and calculated the Seven Day Incidence for every single region and every day. The Map is available here and updated whenever I find time or am interested in the Spread of covid in italy. 
+Based on Publicly available data I created a Map of the spread of covid in italy and calculated the Seven Day Incidence for every single region and every day. The Map is available here and updated whenever I find time or am interested in the Spread of covid in italy.
+<div style="width: auto !important; min-width: 375px; max-width: 415px; height: 415px;">
+<iframe style="width: 100%; height: 100%;" frameborder="0" scrolling="no" src="https://rubenhaag.github.io/italy_covid_map/"></iframe>
+</div>
+
 
 ## [Corona Simulationen](https://gitlab.gwdg.de/ruben.haag/corona-simulations)
 

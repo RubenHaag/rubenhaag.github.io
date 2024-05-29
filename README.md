@@ -2,7 +2,7 @@
 ## Physik Team Stadtradeln Göttingen
 Gemeinsam wollen wir zeigen, wie viele aktive Radfahrende es in der Fakultät für Physik in Göttingen gibt. Wie gut das funktioniert siehst du in dem widget hier:
 <div style="width: auto !important; min-width: 375px; max-width: 415px; height: 415px;">
-<iframe style="width: 100%; height: 100%;" frameborder="0" scrolling="no" src="https://www.stadtradeln.de/fileadmin/radelkalender/embed/radelmeter-team.php?sr_team_id=45412"></iframe>
+<iframe style="width: 100%; height: 100%;" frameborder="0" scrolling="no" src="https://www.stadtradeln.de/fileadmin/radelkalender/embed/radelmeter-team.php?sr_team_id=47869&L=0"></iframe>
 </div>
 
 ## [Covid Map](https://rubenhaag.github.io/italy_covid_map/) 
